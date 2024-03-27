@@ -24,7 +24,7 @@
 엣지 오브 게이트의 스킬 설정을 링크, 스킬 컨셉 워크리스트가 PDF본으로 첨부.
 ## [3. 시나리오](https://prairie-spinach-4fb.notion.site/11bbed49c8ab4d68ac4813e78f6c7807?pvs=4)
 : 엣지 오브 게이트의 시나리오를 링크
-## 5. [스토리보드](pages/page02-4.html)
+## 5. [스토리보드](./pages/page02-4.html)
 엣지 오브 게이트의 스토리 보드를 링크
 ## 6. UI
 엣지 오브 게이트의 UI 컨셉을 링크
