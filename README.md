@@ -8,9 +8,10 @@
 엣지 오브 게이트의 세계관 설정을 링크
 ###     2-1. [캐릭터 설정](https://prairie-spinach-4fb.notion.site/83824dbf23cd4d7bb86dec29b39e1e8e?pvs=4)
 엣지 오브 게이트의 캐릭터 설정을 링크, 주요 인물 관계도가 PDF본으로 첨부.
-###     2-2-1. [근접 무기 설정](https://prairie-spinach-4fb.notion.site/1fd32f8c4e0346359a77986d57a3ffeb?pvs=4)
+###     2-2 아이템 설정
+####     2-2-1. [근접 무기 설정](https://prairie-spinach-4fb.notion.site/1fd32f8c4e0346359a77986d57a3ffeb?pvs=4)
 엣지 오브 게이트의 근접 무기 설정을 링크
-###     2-2-1. [원거리 무기 설정](https://prairie-spinach-4fb.notion.site/49291e0465604ee2a19f77c92108f42d?pvs=4)
+####     2-2-2. [원거리 무기 설정](https://prairie-spinach-4fb.notion.site/49291e0465604ee2a19f77c92108f42d?pvs=4)
 엣지 오브 게이트의 원거리 무기 설정을 링크
 ###     2-3. 몬스터 설정
 엣지 오브 게이트의 몬스터 설정을 링크
