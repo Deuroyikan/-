@@ -4,7 +4,7 @@
 =====
 ## 1. GDD
 엣지 오브 게이트의 GDD를 링크
-## 2. 세계관 설정
+## 2. [세계관 설정](https://prairie-spinach-4fb.notion.site/a4f98f56b3624a0f8bb5f4ab1727330b?pvs=4)
 엣지 오브 게이트의 세계관 설정을 링크
 ## [3. 스토리 라인](https://prairie-spinach-4fb.notion.site/11bbed49c8ab4d68ac4813e78f6c7807?pvs=4)
 : 엣지 오브 게이트의 스토리 라인을 링크
