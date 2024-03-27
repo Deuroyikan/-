@@ -8,8 +8,8 @@
 엣지 오브 게이트의 세계관 설정을 링크
 ###     2-1. [캐릭터 설정](https://prairie-spinach-4fb.notion.site/83824dbf23cd4d7bb86dec29b39e1e8e?pvs=4)
 엣지 오브 게이트의 캐릭터 설정을 링크, 주요 인물 관계도가 PDF본으로 첨부.
-###     2-2 아이템 설정
-엣지 오브 게이트의 아이템 설정을 정리
+###     2-2 [아이템 설정](https://prairie-spinach-4fb.notion.site/394a91e03601439cb58fe72b608ddedb?pvs=4)
+엣지 오브 게이트의 아이템 설정을 종합적으로 정리
 ####     2-2-1. [근접 무기 설정](https://prairie-spinach-4fb.notion.site/1fd32f8c4e0346359a77986d57a3ffeb?pvs=4)
 엣지 오브 게이트의 근접 무기 설정을 링크
 ####     2-2-2. [원거리 무기 설정](https://prairie-spinach-4fb.notion.site/49291e0465604ee2a19f77c92108f42d?pvs=4)
@@ -22,17 +22,13 @@
 엣지 오브 게이트의 기술적 배경 설정을 링크
 ###     2-5. [스킬 설정](https://prairie-spinach-4fb.notion.site/0418657ba6bf4909bd17bc86dc295ad8?pvs=4)
 엣지 오브 게이트의 스킬 설정을 링크, 스킬 컨셉 워크리스트가 PDF본으로 첨부.
-## [3. 스토리 라인](https://prairie-spinach-4fb.notion.site/11bbed49c8ab4d68ac4813e78f6c7807?pvs=4)
-: 엣지 오브 게이트의 스토리 라인을 링크
-## 4. 시나리오
-###     4-1. [메인 시나리오]()
-엣지 오브 게이트의 메인 시나리오를 링크
-
-## 6. 스토리보드
+## [3. 시나리오](https://prairie-spinach-4fb.notion.site/11bbed49c8ab4d68ac4813e78f6c7807?pvs=4)
+: 엣지 오브 게이트의 시나리오를 링크
+## 5. [스토리보드](https://prairie-spinach-4fb.notion.site/1cd4c65eb5ac40058cfc10005dc25aa8?pvs=4)
 엣지 오브 게이트의 스토리 보드를 링크
-## 7. UI
+## 6. UI
 엣지 오브 게이트의 UI 컨셉을 링크
-## 8. 레벨 디자인
+## 7. 레벨 디자인
 엣지 오브 게이트의 레벨 디자인을 링크
 
 -----
