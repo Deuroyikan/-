@@ -18,4 +18,4 @@
 
 
 
-[마이노션](https://prairie-spinach-4fb.notion.site/d73eae4bdc83488c84aacc69bc57f8c5?pvs=4)
+[신희창의 작업물 노션](https://prairie-spinach-4fb.notion.site/d73eae4bdc83488c84aacc69bc57f8c5?pvs=4)
