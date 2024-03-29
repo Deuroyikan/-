@@ -1,6 +1,6 @@
 
 # 엣지 오브 게이트
-! [mollupatch](./images/mollupatch.webp)
+[mollupatch](./images/mollupatch.webp)
 대대적인 공사 중..
 =====
 ## 1. GDD
