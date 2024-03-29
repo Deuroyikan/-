@@ -1,7 +1,6 @@
 
 # 엣지 오브 게이트
-
-C:\Users\user\OneDrive\문서\GitHub\-\images\mollupatch.webp
+! [ex screenshot](./images/mollupatch.webp)
 대대적인 공사 중..
 =====
 ## 1. GDD
