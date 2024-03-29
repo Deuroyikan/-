@@ -1,5 +1,7 @@
 
 # 엣지 오브 게이트
+
+<img src="~@source/.images/mollupatch.webp" />
 대대적인 공사 중..
 =====
 ## 1. GDD
