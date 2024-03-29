@@ -8,15 +8,19 @@
 =====
 ## 2. [세계관 설정](https://prairie-spinach-4fb.notion.site/a4f98f56b3624a0f8bb5f4ab1727330b?pvs=4)
 엣지 오브 게이트의 세계관 설정을 링크
-###     2-1. [캐릭터 설정](https://prairie-spinach-4fb.notion.site/83824dbf23cd4d7bb86dec29b39e1e8e?pvs=4)
 =====
+###     2-1. [캐릭터 설정](https://prairie-spinach-4fb.notion.site/83824dbf23cd4d7bb86dec29b39e1e8e?pvs=4)
 엣지 오브 게이트의 캐릭터 설정을 링크, 주요 인물 관계도가 PDF본으로 첨부.
+=====
 ###     2-2 [아이템 설정](https://prairie-spinach-4fb.notion.site/394a91e03601439cb58fe72b608ddedb?pvs=4)
 엣지 오브 게이트의 아이템 설정을 종합적으로 정리
+=====
 ####     2-2-1. [근접 무기 설정](https://prairie-spinach-4fb.notion.site/1fd32f8c4e0346359a77986d57a3ffeb?pvs=4)
 엣지 오브 게이트의 근접 무기 설정을 링크
+=====
 ####     2-2-2. [원거리 무기 설정](https://prairie-spinach-4fb.notion.site/49291e0465604ee2a19f77c92108f42d?pvs=4)
 엣지 오브 게이트의 원거리 무기 설정을 링크
+=====
 ####     2-2-2. [소모 아이템 설정](https://prairie-spinach-4fb.notion.site/490a3acda95a44548cb25175e5fa1276?pvs=4)
 엣지 오브 게이트의 소모 아이템 설정을 링크, 소모품 컨셉 워크리스트가 PDF본으로 첨부.
 =====
