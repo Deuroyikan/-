@@ -50,8 +50,9 @@
 ## 6. 레벨 디자인
 엣지 오브 게이트의 레벨 디자인을 링크
 </details>
-=====
+
 -----
+
 <details>
 <summary>Tales Drifter 작업 내역 일람</summary>
 </details>
