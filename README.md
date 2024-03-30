@@ -1,6 +1,7 @@
 
-**대규모 패치 중...**
-![alt text](/images/mollupatch.webp)
+{: .text-center} : **대규모 패치 중...**
+
+[![alt text](/images/mollupatch.webp)(https://youtu.be/QUXKib-jfEM?si=wDXcLQwSF5xHNxf6)]
 
 
 <details>
