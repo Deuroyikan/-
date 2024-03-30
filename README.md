@@ -1,7 +1,7 @@
 
 **대규모 패치 중...**
 
-![alt text](/images/mollupatch.webp)
+[![로동은 다이나믹하게](/images/mollupatch.webp)(https://youtu.be/QUXKib-jfEM?si=_aNqwBoXBLYhuk53)]
 
 
 <details>
