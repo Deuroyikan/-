@@ -1,7 +1,7 @@
 
 **대규모 패치 중...**
-![alt text](/images/mollupatch.webp)
-[link](https://youtu.be/QUXKib-jfEM?si=WBBHBASpq0559pkr")
+![alt text](/images/mollupatch.webp[link](https://youtu.be/QUXKib-jfEM?si=WBBHBASpq0559pkr"))
+
 
 <details>
 <summary>엣지 오브 게이트 링크 및 문서 일람</summary>
