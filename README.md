@@ -49,10 +49,12 @@
 
 ## 6. 레벨 디자인
 엣지 오브 게이트의 레벨 디자인을 링크
-<details>
+</details>
 =====
 -----
+<details>
+<summary>Tales Drifter 작업 내역 일람</summary>
+</details>
 
-
-
-[팀 이볼브테일 작업물 노션](https://prairie-spinach-4fb.notion.site/d73eae4bdc83488c84aacc69bc57f8c5?pvs=4)
+[팀 이볼브테일 워크스테이션](https://prairie-spinach-4fb.notion.site/d73eae4bdc83488c84aacc69bc57f8c5?pvs=4)
+[개인작 T.D. 워크스테이션](https://prairie-spinach-4fb.notion.site/Tales-drifter-42ac61eaeeae43b5889033d5cdf93402?pvs=4)
