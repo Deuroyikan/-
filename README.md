@@ -1,6 +1,6 @@
 
 **대규모 패치 중...**
-![alt text](mollupatch.webp)
+![alt text](/images/mollupatch.webp)
 
 <details>
 <summary>엣지 오브 게이트 링크 및 문서 일람</summary>
