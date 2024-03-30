@@ -2,8 +2,7 @@
 대규모 패치 중...
 
 <details>
-<summary>접기/펼치기</summary>
-# 엣지 오브 게이트
+<summary>엣지 오브 게이트 링크 및 문서 일람</summary>
 
 =====
 ## 1. GDD
