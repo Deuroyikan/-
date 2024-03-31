@@ -76,6 +76,8 @@
 **Tales Drifter의 원류와 역사, 트렌드 등에 대하여 조사**   
 [관련 문서 노션 링크](https://prairie-spinach-4fb.notion.site/T-D-eddb0076b7054669908df9d22c237b68?pvs=4)
 
+-----
+
 </details>
 
 [팀 이볼브테일 워크스테이션](https://prairie-spinach-4fb.notion.site/d73eae4bdc83488c84aacc69bc57f8c5?pvs=4)   
