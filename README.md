@@ -73,7 +73,7 @@
 
 -----
 
-**Tales Drifter의 원류와 역사, 트렌드 등에 대하여 조사**
+**Tales Drifter의 원류와 역사, 트렌드 등에 대하여 조사**   
 [관련 문서 노션 링크](https://prairie-spinach-4fb.notion.site/T-D-eddb0076b7054669908df9d22c237b68?pvs=4)
 
 </details>
