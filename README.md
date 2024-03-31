@@ -8,6 +8,7 @@
 <details>
 <summary>엣지 오브 게이트 링크 및 문서 일람</summary>
 
+하단의 작업 중, 
 
 ## 1. GDD
 엣지 오브 게이트의 GDD를 링크
