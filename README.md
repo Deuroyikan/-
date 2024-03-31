@@ -1,8 +1,9 @@
 
 **대규모 패치 중...**
 
+<!-->
 [![로동은 다이나믹하게](/images/mollupatch.webp)](https://youtu.be/QUXKib-jfEM?si=_aNqwBoXBLYhuk53)
-
+-->
 
 <details>
 <summary>엣지 오브 게이트 링크 및 문서 일람</summary>
